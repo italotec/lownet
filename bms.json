@@ -56,10 +56,38 @@
         ]
     },
     "2d": {
-        "phone_number_id": "871656772699024",
+        "phone_number_id": "894757600384375",
         "token": "EAAMvYFlcCq8BQGtBR5RZAcLjFT9HJNSFQzthTxqCiVDrEglwPQxNHbpYGa9nVK2EFbDJJqFkNZAhyBkz3byVlB5NJlR2upr4gMsvxey10ff14YK9BiW3fZBLZC16mjoUzXZBanZAhHy0onA8lXtfs7Yn5rptHF0VJ8DBg65PGc6OYtiuXwxsESpZCZA6U8iG7FLosYVu18hL5ArUpsnT6lGNlNnISpZCBGurZCRyv5eRAb",
         "templates": [
             "notificacao_sistema"
+        ]
+    },
+    "2d-1": {
+        "phone_number_id": "860513713811607",
+        "token": "EAATCZCP7rF9wBQNmNFocpJPINfo92v7XQVk8IdNqWFMZBWTom1AAprL6ytdSYPhakLrb3N76fZAAmVZAf9xf056l0I6KThK4ruEMu9Xo7SszFIq05EvEZClEVB9MtGAa1pjvrmYLnZA9rUSHZBbjvl3LaGRuPhjXDKPkRTGS5cU9ZByfRPTVLJRklnpXQWbaVYZCwIAZB9ZBExa8BTcq71lhPNgBYFzNoqDwOJ8a5MzUd8Q",
+        "templates": [
+            "aula_temporaria3"
+        ]
+    },
+    "2d-2": {
+        "phone_number_id": "909515112238894",
+        "token": "EAAcAOE8tYvEBQCp9iOn1gvnECsmEbVmbpseqpPJ6yYL82fTeHtV4OVaFaPPmGskmRT76ZBbM3IOHrqlHOw8sygUMWrWs5O0a4gZB2WZCHhGfWLjx3gSunYhNpWNu04JVIORzC5UeFI2kAdS5FWUzQF8jdXpehzZBePLdbe4XPCWCl04qKSNsAx7zySfHLGXFktqPZBNH8btNzi5id1I9s7rZCmTBWJ87stVlaI4fjG",
+        "templates": [
+            "pendencia_resposta_v5"
+        ]
+    },
+    "2d-3": {
+        "phone_number_id": "856049527594986",
+        "token": "EAAiIVPk5U1sBQGq17670HdYq7yzRYegCCVVDzT5mhKPEQgr6ZBty3hnLHFZCHZBfkTMA0gzsPFYoxPOqXFqlzq2xAuDoPrZAodvEhsoLadzAqlEbbPQGpoUhlCTb81ozHSyrEGQUSeCzWlTpxAkDumlZAnKZAZAFzhwfjGjIzB4CskplfLmOQRc4ZB2s8iZCOddtBXua0ZCiNTz66ItMfjPgtwrL89I2IjQGyldkjX",
+        "templates": [
+            "pendencia_resposta_v2"
+        ]
+    },
+    "2d-4": {
+        "phone_number_id": "818573314683471",
+        "token": "EAALSl9MZAfFsBQBftz3b2JPogfdMj6NZCwFUXDoAoncMEra4m7Xzxhrc4YxGgCsZAO1oAW3oCUNhhBCW7ZA9Ywbpp8jOH6pWZCVxwDZCYis6sp9VKfiAUeRUrvsRtqlSLardjUKvFDYege2ZA9TgKIyKBw33TvrHVayGarE0H8VXEqKZAM5IE3QET0rbbhEZBZCL1TtIVAk81M4SMvFOaUS2QgX6hqhCnDI59121ff",
+        "templates": [
+            "pendencia_resposta_v1"
         ]
     }
 }
