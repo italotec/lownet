@@ -89,5 +89,19 @@
         "templates": [
             "pendencia_resposta_v1"
         ]
+    },
+    "2d-5 (junin)": {
+        "phone_number_id": "866772543193643",
+        "token": "EAAaMYMy8DV4BQHQU9vSi9AzFh9A33Kc3iHrRrb8Td4pHFxbfMBr2RQraD0vNsEEeDOKdL06H7gCUnvZARaI7P52ZAvlko4yVZCRgCAlF1SCOwotiP1oWbZBvhO2QKu0F0VaMG2K8v9ZA9WUCFGQe1sRt96RkE6nPJxZBV75g7Q1cZBtZCEWLY1iJl2iOD2qVhyDZAq3WBRp2qEPN0qrOXP1bKijGtmCszOpidB6Al",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
+    },
+    "2d-6 (junin)": {
+        "phone_number_id": "918573831334206",
+        "token": "EAAbChaImUb8BQMlThjoEq8PPfYrIb6l2ACYc0aCzQFswXbuBals5AkpGUqXq6OsuPBzSYAkMQNYvWhJfh9Iw3Fdd0wnsg9jMlJnRDkZBPiKkhQdlngIN5gFxigw1N7ZA7XlZCckAfuTaT09ZCN4eJXMkmtqTFv7NX9wbXqhe80O1bwRxpiP7uOoJhuBCIF3F6UG6P0MaXrFPC0cMdZAOG5Lkm0pPOqb4s4JE6",
+        "templates": [
+            "pendencia_resposta_v2"
+        ]
     }
 }
