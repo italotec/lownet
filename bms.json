@@ -110,5 +110,12 @@
         "templates": [
             "pendencia_resposta_1"
         ]
+    },
+    "247 (2d)": {
+        "phone_number_id": "791261754080089",
+        "token": "EAAWutM2qy7gBQIILBRwich6o0U6peQIu5P5xLrvdLC3Ckt7KEwNgyZBQSQbjTPK5OYNuBTuKyycPg1VUWTBgZCuXO3hL7kBaWG5i0Fwgljci1tzZAB5uARZCSveOwCkvHLXLIvPV8P2ZCVpm8P3lBFv4JZBjRz3w1zUg8TSZAJRZBI6nasip5EZBeKrXhUS38CGgkaE0BZALcE8l66VoPU1ZBqAeOhEd5zvsRpluS73",
+        "templates": [
+            "pendencia_resposta_v3"
+        ]
     }
 }
