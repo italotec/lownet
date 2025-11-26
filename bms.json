@@ -55,11 +55,11 @@
             "resposta_pendente_v1"
         ]
     },
-    "2d": {
+    "635 (2d)": {
         "phone_number_id": "894757600384375",
         "token": "EAAMvYFlcCq8BQGtBR5RZAcLjFT9HJNSFQzthTxqCiVDrEglwPQxNHbpYGa9nVK2EFbDJJqFkNZAhyBkz3byVlB5NJlR2upr4gMsvxey10ff14YK9BiW3fZBLZC16mjoUzXZBanZAhHy0onA8lXtfs7Yn5rptHF0VJ8DBg65PGc6OYtiuXwxsESpZCZA6U8iG7FLosYVu18hL5ArUpsnT6lGNlNnISpZCBGurZCRyv5eRAb",
         "templates": [
-            "notificacao_sistema"
+            "notificacao_sistema_4"
         ]
     },
     "2d-1": {
@@ -116,6 +116,13 @@
         "token": "EAAWutM2qy7gBQIILBRwich6o0U6peQIu5P5xLrvdLC3Ckt7KEwNgyZBQSQbjTPK5OYNuBTuKyycPg1VUWTBgZCuXO3hL7kBaWG5i0Fwgljci1tzZAB5uARZCSveOwCkvHLXLIvPV8P2ZCVpm8P3lBFv4JZBjRz3w1zUg8TSZAJRZBI6nasip5EZBeKrXhUS38CGgkaE0BZALcE8l66VoPU1ZBqAeOhEd5zvsRpluS73",
         "templates": [
             "pendencia_resposta_v3"
+        ]
+    },
+    "640 (2d)": {
+        "phone_number_id": "882587638273811",
+        "token": "EAALm96ymm9wBQE0M5U9YyZB4bveyNnThXZC2VxrySggew0RiW8ZAvnBtjljfHYIGKgzn4vsMO3k2DXavRrkzIC3kkesRoKPuOyIhgMdbZC9ci9S9vd6KkYBOk8m1NOkWN8bFKdiQLzx3s4C6qtvRoIjZChZCpFwUTBsjZAJjrAqnuEmoE2sNeCo6UCYrdF1hfYBtaguoSquODf2yOvyaYvRk7AdTymtNgnbdUYVAOC9",
+        "templates": [
+            "notific_sistem"
         ]
     }
 }
