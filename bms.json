@@ -103,5 +103,12 @@
         "templates": [
             "pendencia_resposta_v2"
         ]
+    },
+    "637 (2d)": {
+        "phone_number_id": "934597763059469",
+        "token": "EAAZBsZB0ZCD1uYBQN06r4vlKJWVWF1xsJM7i0917lPPZBZCkZB5aas0V6IASrIPqRbO4SkC9hQk3jsRfZBKiSjP4axLVMgedQhThGT0hVukaCPDTZBjxVR06qTEBZAzhUZAjFKRJ1GqGeUZCvDFh7N2RGUXVeJyl9UR8OUKOt115QZB8Fajgsp3xLJJ2LhChy80x2JyRzw59VVAhRARo254Rf7NPmOeNExqGZCyaqLZAjBTyrv",
+        "templates": [
+            "pendencia_resposta_1"
+        ]
     }
 }
