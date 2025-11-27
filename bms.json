@@ -145,5 +145,12 @@
         "templates": [
             "pendencia_resposta_v3"
         ]
+    },
+    "1048 (junin)": {
+        "phone_number_id": "853605554506580",
+        "token": "EAASZCmDq1hUoBQJfg5ZAsiY8shjS7RaoCYSqnn4wjeDq2dlVRQSZAKZAKv3FxydaNuo1E91EFjvJCyfzGiZCghDJLhYUk8xYd9mrVTqtrwrFZBIDiPHjWDkQB7fRBZAcabGfIt4ZCuunLZB3r89oP9nvRXOAGsnNOXcvE8ElImJ4tOvt9ZC2wShCmZBzG3yIttXMxTdbBPRhvnYlq43Y284ftUwpd0ijGRl8vAu7i0lHeBF",
+        "templates": [
+            "pendencia_resposta_v3"
+        ]
     }
 }
