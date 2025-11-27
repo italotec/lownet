@@ -131,5 +131,12 @@
         "templates": [
             "pendencia_resposta_v1"
         ]
+    },
+    "1019 (junin)": {
+        "phone_number_id": "908015552391468",
+        "token": "EAALKbc6uOrABQO01uGlfFO8FdWXT2zJHnUHJbuMN785MshkURh9EPLcTyqhwMgLCnvpFMppdnKHDPc9MCk7SiHDQsIexdj9ykqmXZCD0PAZBlwN2TwAVucq3tnElZBYAK80AZAZAoBl22yOaxTXYgNOTdubINVhZAGBZAXRsVhhaRWCnPADZACZBWAWxqSz1NmHlJ25LpWojOzb7Wp3DFF9x3JoGpiFcvu9V6KT1N",
+        "templates": [
+            "pendencia_resposta_v3"
+        ]
     }
 }
