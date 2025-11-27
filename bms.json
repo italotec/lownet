@@ -138,5 +138,12 @@
         "templates": [
             "pendencia_resposta_v3"
         ]
+    },
+    "1046 (junin)": {
+        "phone_number_id": "923628164158881",
+        "token": "EAAKB0XKAwK0BQKevJLwvJT7KHGj1psNaKq3xrC1YmViub0wZAQZAMOTFK4SmvFEnIfzUj4tQbV2LxB7Y4dX35lH5ukv3DMIfY9jGyauGDqUOF2SOJrVnfQyJXUuQHzeBc46U0K2efXAr9Qd8nCGBWRFQP5W5fihS33j08AU8kiolBA7PAQUtHCHX948MLTFU5X1meNkHXtehryG4sxcObcMcJmGejAsnmUvoif",
+        "templates": [
+            "pendencia_resposta_v3"
+        ]
     }
 }
