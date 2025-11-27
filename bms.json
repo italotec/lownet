@@ -124,5 +124,12 @@
         "templates": [
             "notific_sistem"
         ]
+    },
+    "1007 (junin)": {
+        "phone_number_id": "894366287094149",
+        "token": "EAALqy38HjB8BQH83CJxg1t5PWgNWocZCN6b6gNrbrxxSMRtYLEZAB5NHuCyBanGDYLSLkgA9hTviCu5NoZAblid280I3thx8bHcG0hmlDPmGxCgl0HYvp611sZA1rZCb0mZCR8mZCwN9bb0bYFrZATOoUbs39GCbYUX3XuRKEZCcelzZAIl10fkRZBtlg27mSqPoeMUjdOxZArjQ0ZBY6oT2KXClCol7psdGjUDeRKlX4",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
     }
 }
