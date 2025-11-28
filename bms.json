@@ -250,5 +250,19 @@
         "templates": [
             "pendencia_resposta_v1"
         ]
+    },
+    "1049 (junin)": {
+        "phone_number_id": "869669722900613",
+        "token": "EAAmnzH69bXMBQHT21ituRkAqrAykA7J9ERkN916Oy7ZAMrL0SvAUHZCZCqYQ3EFxZBrowS1Bxj8sEu4zPNjWoo69f5P2MH6gpic4HEVCAXOe3GZAZCMEckkVuXZBM9op4h7tZAnzpaetzkqYc2HXtvPAIZAWl8zXZALWVTA3MjRGqOCsIRzQQ01YHm2mpFDvvkZA4FUTxzUZAZBh6iLHDFK1mngDcGiMXRFRG7gEh1pZAJgb2b",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
+    },
+    "1052 (junin)": {
+        "phone_number_id": "869669722900613",
+        "token": "EAFxrUkZBiLZBQBQIwNEv83lkEbkrnJsZAMi6lL7TUt2dw1rhEBJLHH11BsbpWxSilgJV8C6LpM65f93bZBwrVbGP8v33rWx66uoWESRqGfNLoyenzTpOf7H9ALf5svvI4kQxYvUIYtP6KZCPcs4mdwIS8QCnZBOHZAaH3tkyZBHeAhnaxc59oZBdjX9pH4OvQ5a0eZA5jYZBCCgNqn89hvKffzAdtsw6ZCCE62PHbZCaJ",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
     }
 }
