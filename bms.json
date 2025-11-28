@@ -229,5 +229,26 @@
         "templates": [
             "pendencia_resposta_v1"
         ]
+    },
+    "1107 (junin)": {
+        "phone_number_id": "811626972043415",
+        "token": "EAAgdUXZAYuVQBQMVFUr9lWZA7o9ZCE87BCL8kZBzvakyeRT30ATQdOmFoiPV4cIntvR2Osa0ta3KuG2wkAJIHZCi2obofmH5XCZBs2d4Xt0frrG5N0ynZA46CZBPrT9Q5UUSDqxYWjqGjxVrr9OD7r76HWQ1JyP4JSakU7ftTiqyXlNyislS6rpY7qtz9HAzROc828V94tZCDe1gI7miA7lP5zBmrTmMO035uR3UtOw7ZA",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
+    },
+    "1108 (junin)": {
+        "phone_number_id": "824276254111685",
+        "token": "EAAPpPMYoJPYBQBC6emQFVMYCWT3ANJcZAayBZBvkfzduytT5M2SL7bp8sYk3UJIYu9RJQNkpXlGBNdN6yRuFVkIymehmJJ6HyTXXfutVqlTc5S59dqbB9CUzWuR295rDM0aLZB1O3Qtvzhj7OqprC8CcEjzFahZCF3YXeN3QUUsUpwIaraJmYvn6VfDrPUC9LCoDLHlVRYqZBfCmheOLZA3v4osiLASTjLmxbh",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
+    },
+    "1109 (junin)": {
+        "phone_number_id": "808783175661292",
+        "token": "EAAcocqsgAeMBQPYIIAgdrMLAz6HZBBLsKetxn7IIvadCjYaQETrsfXLkyfBnL2QhZCX7orX1pvygpfAAJUYbkgzPx0FZAfyQIgamiR24zW5DAnImey23Cj0jpKYxF3x17QDzn0qV1jPZBjVdg9raZAAngTeYAvsZA86VMtPmNaiIg8fAe4hf5BrrzQaHPyMK0RzG0jhE84BQRRrxmx2FLHGpkHHtau03qD3rlxkMXg",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
     }
 }
