@@ -187,5 +187,26 @@
         "templates": [
             "pendencia_resposta_v"
         ]
+    },
+    "1101 (junin)": {
+        "phone_number_id": "819188371288823",
+        "token": "EAAdRgXrhlawBQFnqPho3knHOd9OZBZCaXRhl6jG2dDW9K2RSgATuira9a5rKxjixdmZBarzqj1seTxYEZADzPuITXl4vwS6FScCmQ0zPbZBaMf1XjZCeDFXa6eZBOtPZCGkmX6ZC4XFlgGhYtCc6OeZCZAwZBHAFDA92ZA6dqAKs7tBeAnhUZA1HcZCBOCM3Fft8lWRqaiHR4b6nZBKrgfn5NaYmuLGgZB0mnq4bCZBRRh2sgmbGeZA",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
+    },
+    "1102 (junin)": {
+        "phone_number_id": "890173487510865",
+        "token": "EAAZC05QK6CtgBQM7OZBhlbhDAVXgvGlE94ffIqcCebPEEuJWn1tOdXWZBSfZBurIXWl6skeQKMsTTfmMmIHr9W0WWMiXdBLrnvynqPNRsPq9pu5w0GamAL2WIbYmVfk67jB094VxRDPyMTHYwfZBMcgZCK99brd5IhohGZCU8d0QFbwgxcengmGr4mWEXZCjCo5TV9hpHWTVpV5R4DJCZCgkOZAmx6j6Lxps1gZBONwmZB2f",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
+    },
+    "1103 (junin)": {
+        "phone_number_id": "839106935960053",
+        "token": "EAAXjFod5ZCwQBQGyXz3kvT5naizKcZBqseGdvaEA0hZAzn4sp33ZAtE41ZCNmBVdhO99MGWWZAw0GHfGOpIA6hHdEzfODjcKvMDBZBVtGJDpZAEfOhZC7hZA9CvNI8fZBfCQJqSTbvUW5wW386o7yQjOG7xR7LJYsUJmE4IZCvoO8lMSwTVEfaVS4wvVMbYqdHsUMRS4L0gYzCL1MmpJXJCk7fihmzatBTMjdmfU58eXIeWN",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
     }
 }
