@@ -362,5 +362,40 @@
         "templates": [
             "pendencia_resposta_v1"
         ]
+    },
+    "1087 (junin)": {
+        "phone_number_id": "854698117733257",
+        "token": "EAAZAhJM0WYSABQN30okLIpW4Q7BdCYqWMUcGkV63ZAkDdCSyhM176URCG20XMjo6znycfJ4n2R4ac6qxpJyv0ANkRJyjUpZAYLp0R9kXvY5ZAK9a2mfZCDuh0xqeZCnFRWmu0goDQmSy7OZBMlU80dV4aHuTOzvOgASHViekRjYZA0pvYF5ZBF9jeTNryn3P97x4FQS8zitoTr6yC7Nh5N6fplUOKkLhLSqyBwUDMEiUu",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
+    },
+    "1089 (junin)": {
+        "phone_number_id": "808379115702155",
+        "token": "EAAQxdraj2XABQGq2xr9KX4b7TvMoIG7w48PY2zzwOrAZC7GDWQpfhGlSxbiRRAOQzZCbgLwKUNVnKHtfpaGXeIuayXQdpdnrd3pyJ0d4P5pH1CZB0FusNc3XH31rmnl7sZCSAwUsyThVFEBAMX4Xwl7PaMMkrzHuQzsq39MZCENbW3JiEjub2Adxy0YJBTpXjdSyv1x5CmlBxCK1nFXXypXknZBpgFUrSLZBC4N",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
+    },
+    "1090 (junin)": {
+        "phone_number_id": "931756463353129",
+        "token": "EAAVHLs5TgXsBQJ0rQYb9TGmI6PdL6UqzDvST0oKxFXuLqtZCS0GUM2hYJxPZAiZAOSzJ9vkZB6wowHByPIZCmZBR1VZC2r6BhLAwSd6LclagQEOFGnWR0Asisj5463QyarnmgNYU9eaLr9MtdLsA1z2dZBzNLJvOtlDGwgGAHzrbgcfSjn0o4ZB7A6su1JyFCKgqGkY2BlgN8YLn0aPnA2qTn04WthJJ3daOXCFZBD",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
+    },
+    "1091 (junin)": {
+        "phone_number_id": "811997822007224",
+        "token": "EAAMkl87BVZA0BQMymeSX01RDckoZBDGzAGkvcX2oI5zZBiSBRwO337lCTQkhv9r6BfXEmk7Oe9fBY5Qt8r5yrfw7lm1pJJXA3s6Y6ivEZA63kbhoUYQspt494RoosCMcNBUCB08P26r6Ci9xcq7GP33lOk0bkpkJacvLqDLqGddxkB8Oe9AKZBN68jr69dcDFsRs6CfNNZBoaujeqzFZARWBZBe4IfLaYfPkUs2K",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
+    },
+    "1092 (junin)": {
+        "phone_number_id": "883764188158146",
+        "token": "EAAKNGl8ZACSkBQMNZBGa33F8kh1u6Hi3AvgRV7gMXwTzGoxZAnHaXnhEMb14koroZAWwV5aNjxvYVzeTVzz8nXzwBB4sSF2Xk7mRdvZCSmZCThqNc0d5tXpNvXkg46hn9SRAKiwiFppJoQKQe5uoj3S3WPs8pExuoAepZCzEm3DHCxFuTVKX3WzZC1dsmNQwrsYaovHjZAv0DW5UJwSwxNyELvW9pK0v0sjuonMRcpMnT",
+        "templates": [
+            "pendencia_resposta_v1"
+        ]
     }
 }
