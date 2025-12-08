@@ -467,5 +467,12 @@
         "templates": [
             "pendencia_resposta_v1"
         ]
+    },
+    "BM TESTE 100K 1353183579734711 (junin)": {
+        "phone_number_id": "950296161490687",
+        "token": "EAAQkgzTGJ2sBQNVt7GnQDVHD38yia7fv5D8LapzbU0Vn3uMoSOEdDA4GLRreekjFNntvmviADicyXHXnn34fePMu4vBFcIHcSIkYfZCSR5kjCUns8ZAqveWd4CcH8RTVbhO5k3B2A7dX1XsNWGvv9sxovRGdstV2x2gSZBZAuAMmwn4ROkINqfDsS2TcOYHXThmrvFNjkU5ytlHRGJIRwgZBk6sBRa7qO8aIMQs5D",
+        "templates": [
+            "deep"
+        ]
     }
 }
