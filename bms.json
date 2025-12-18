@@ -760,6 +760,22 @@
         "token": "EAAVaNkkLAX0BQAbNZBIFxoEvA9GIaZAw98D2EUEp6mubOzrZCGKhbPsKXmehrzFTYFcIkz4srNOMZCqZBEpZBtusDQ80jk5gBcUZBsS2HbVO96EUf4dyB31gPXbZCZC4iBGCUqAdWeOZCs8Xo1apQ28KaFnER4grMG4M4TFb9WgtGpBmZC5RcLDThgHlXqZCdwesmDGAhXIKeWKEuJTVuVViXZB0V4xpkpcJBI0eJZCpuhxKaF",
         "templates": ["atualizacao_cadastro"]
   },
+    "1177 (junin)": {
+        "waba_id": "882245390969336",
+        "phone_number_id": "935565509632364",
+        "token": "EAARKFy18Di8BQPO0noWc3M14R81VfpId27NTa70CcNM49PSx4IgDXnlkOsevHZBqqhM9NEn3Dz21acp7DylUt2aVfuD0HZA3ZBFbtoHNT0pkVEV9v4CRpfZALfcuOEYRiG26P0sjAaoEMBUTH4lFuSlnORv2SVKldPe4sB1PAmeGXQVXcUwa7y5vX6w3cSLZBAk2CDExWw6kwyubkfJWZAwLyZAQQFw79zMRrhTOZBD2",
+        "templates": [
+            "atualizacao_cadastro"
+        ]
+    },
+    "1184 (junin)": {
+        "waba_id": "2330393317374034",
+        "phone_number_id": "827906183749087",
+        "token": "EAASdzxnoI48BQPGP1dYRJedIhfe1MuxrGrzPiZAuncj6ciGtBtsGd8OyOfXZCDb9Pqo3Qh5hN85qNIHim1qpA2lRZBtkwBybpzPDLE38yDaNVo2O7SAfKJyfnpOZA87zi8tk2pXotRKdfH0d4co7NNUXof9eea38RWBDU0jbQV9mbikGO9xtKQGwEMLfZALtZA2kF6xGI7x5MaBIpXEgUZAavZCjIamBK66VXpIZA",
+        "templates": [
+            "atualizacao_cadastro"
+        ]
+    }
     "TORRES": {
         "phone_number_id": "903328249535761",
         "token": "EAAMEgbZApxK0BQLi1FmxdhZBCQNd3jcmwLkHW3zkQKNA12IhNa0EU2t4D0NNC30vmwZAL4n1JF5lE4uchdpYlrclT5qjp7RSwvdm0FQ4hf7mp67MqNPaHYdFnKJcv4CMXDiDrYZB2ddonQqjZBJXdziIjuPomBKRo4fFXD0gIHTiz1zjjwykx15DhET9UbzZCA7KxGy0WGSHiZAPhpLEHN1OUWolfbUYkglvLvuICQ7M7YL5b5CNU2rROS3omsqhWK8GeZCKg59uAE9rLuZCmjgGFZBHtt",
