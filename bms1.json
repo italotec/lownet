@@ -1,0 +1,50 @@
+{
+    "1236 (junin)": {
+        "waba_id": "3185432754958123",
+        "phone_number_id": "928178730381666",
+        "token": "EAAT8yQPpcSkBQUkBhbZB3iZAEkNMNEHF1amZA40ykbzn5VxS2VzQ3rRYRqRqoHaWubcm3qwPSDHKEHdhkUo4ffloOMZBeYNPoUsnlNabZBZBhorkXqn4yIGfoC7JgjCkZCns0kbrhQ1MwvkkkZCHTrQOQocJVkWFQWt6SDyQH8iYb0wfGptcZBzHFn7ANpNZB9YErrydqs33FM5TZAvYKaDJF4pJ85kfTAPuto8P6XPRQYc",
+        "templates": [
+            "pendencia_resposta_v5"
+        ]
+    },
+    "1173 (junin)": {
+        "waba_id": "1415727296826881",
+        "phone_number_id": "851465168059311",
+        "token": "EAAMEwAAZCGH8BQZArdlFQzQZAPPxfoVGuM6A1INA7Ym4MF9U5FOZAlx2wWLcE7TJ6x3uZAxwjKs7vGZBcuQpu7mNEJUE18595fSNkEOUsUlEC0yTNjoUWEia4rnHQNtlybiCKy2Dk54fF0IYj1sjsZBXhJU7xjTxE7ZAAhva0gOT4QqWt6AGkdPpKBF2FDYBc6cJv2lmUuiRs1QEWSbb2seRWFivRbKbao630Slq",
+        "templates": [
+            "atualizacao_cadastro"
+        ]
+    },
+    "1186 (junin)": {
+        "waba_id": "1558712828664287",
+        "phone_number_id": "950962624764826",
+        "token": "EAAasG9Dv4ysBQdlvNF3BdzZCW1Wc2PwmfGSMJBHw3iR1gYY0ajFQJ2j8KDaY90WEHKIUQ3gJMyvF0PumV1fCDvJziCsZBg42qreRop9BhYtTdRapcudmrdpZCeZCPgL3BBp2ZCdTIvZBGvZCOwLNxSnvZAyixvQSr0bHbk1nBRKCNkUHCd76qk7I61Jx2ypjaZAWmLsKUmHs1iMZBc2bJuaG3uuqQykF2KxQuDMwuRrham",
+        "templates": [
+            "atualizacao_cadastro"
+        ]
+    },
+    "1194 (junin)": {
+        "waba_id": "2030953867681514",
+        "phone_number_id": "910965812101759",
+        "token": "EAARiNFd09P4BQWeQ4yQCrp2kMTotwVrWkozXY5ZCmrv2Jbt3ZCG7ifGyp9UZCPIcaZBHXOyQv281vQeMsfems3Kctq88s3ZA55AW5XpMxZBHnFgP7eoeqRs7W8CSeZAYQDoKAazARZBhmF7oXNyzMLXAZBZCE4Td7dQlP9Xxs6PmhT8suAkyHxu60tz4Wl0fTeUoyI6tHIFfIQbnKhukIFZB0TpDUF9zvZBPH8XaTfZCDDVuA",
+        "templates": [
+            "atualizacao_cadastro"
+        ]
+    },
+    "1204 (junin)": {
+        "waba_id": "745393304599980",
+        "phone_number_id": "890614074143856",
+        "token": "EAALZC11tSXoIBQYZBfvwrzdGxp0DywcJ6UycsnDpxqWCbPz2K9ZCmctNApERZC1X1xXouBfpFD5C91K5uEjBZCJvWW7UnZBhmlFX3kVsQb49kNRYZBZAAAdbYEtmokJDhmoYmiBnhv3RArHXFeOKwOJVuoDUzL37xQPRTczg8U4H7shIbzP6ijbRk1v7LwYYyCMwbIRdYDTBPzlidVUdFgVv5xAiDXauuR0ZAdad2",
+        "templates": [
+            "atualizacao_cadastro"
+        ]
+    },
+    "1128 (junin)": {
+        "waba_id": "1248481057114018",
+        "phone_number_id": "833133623226756",
+        "token": "EAAMXsIH7yj4BQXaJDm8v1rhOyhoIVPMxOj0nXxMHdthNlx3DYC7PhA29RsawTUU7CO34oeBVFj6Qff2QOyFmJaWOTM7rCYgY6FIO2NDoiKOeKfVQiFcTtBqOy0WuZCnMCkgzv47elyQRewTCIz3ay9XcNQX88utUQiiwkw48U0VPEhqsaDvgKt8in1lzZBxDx0layZChmrv7zeZBZBuppPXZAaGjwL3xz1UW0d",
+        "templates": [
+            "atualizacao_cadastro"
+        ]
+    }
+}
