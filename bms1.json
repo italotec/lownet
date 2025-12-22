@@ -46,5 +46,21 @@
         "templates": [
             "atualizacao_cadastro"
         ]
+    },
+    "1206 (junin)": {
+        "waba_id": "1256416602953063",
+        "phone_number_id": "913869188479258",
+        "token": "EAALvwzFrlPYBQSDu0HyR2dAKu61ZCVyamg42OuKRsl4PCzDMHHJ4QZAORQdmTBE8er9D2bmyI8PzmZCKHgH1y7eeCGxiW2LdxLZADNlbcTkeJDcyINntoO0pCUnXMZBEcNTDVhBeR9cW9V8w4t90yc771B5FK21O2PSIO5pPhxZAeOQTZC8ykHC0qxuc1WL9ZA2cxzSpD0wg1FzlC4bZAZAuSpn3ZCpQy4uZBg19MwJ9",
+        "templates": [
+            "atualizacao_cadastro"
+        ]
+    },
+    "1215 (junin)": {
+        "waba_id": "678407481872778",
+        "phone_number_id": "914168691782799",
+        "token": "EAAcKxZCxc6EwBQe6kN3lxsG4j0JfVXvN1FqKJqEHpaPBRlUy2qU1hhwvMcTdTnUTpfhM5S4y1FZBJOZB74M46iKkidZCgfm3iyvy40aeWILpZBQZANp0oBXMEibkQnIKz23tJQHIgrmOwCy7A5L392AZAsgDRcrpeqem9iYuAZA0MdftefyLGhwp9bTbcFhTcsUV8pkI9thZCBZA3z7FfztemeupZB0cwblQKWeLyQw",
+        "templates": [
+            "atualizacao_cadastro"
+        ]
     }
 }
