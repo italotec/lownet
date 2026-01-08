@@ -14,5 +14,13 @@
         "templates": [
             "resposta_cadastro"
         ]
+    },
+    "238 df": {
+        "waba_id": "1341292887741926",
+        "phone_number_id": "",
+        "token": "EAAKUX3Sv0ZBgBQQKwItd4TIaeiluXdAi0Nyx0rNTl8GYUdg7qzuJ3mRqc2a9rgr98ZAIyYZAu04K8xnTcWuu7AHV6NZACZAZCQz0hqX5CUc60ZAr56OOZBHZBCUZBUZBV5dO03a77z4y1BVikgApf8LzYrVR4AksRvItIp7ZBpEvUlJZBFFRjovgywyjQGBIaZA3BZA2ZAeyLsutpN6FLF83En9ryAQKMJ7e2u5NpJPZAE8HSCgaE",
+        "templates": [
+            "resposta_cadastro"
+        ]
     }
 }
