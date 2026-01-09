@@ -22,5 +22,13 @@
         "templates": [
             "resposta_cadastro"
         ]
-    }
+    },
+    "41 df": {
+        "waba_id": "2085159355221558",
+        "phone_number_id": "912969911903736",
+        "token": "EAAY3aiwR0VgBQcLInEDJLZCsLvZAaxv49EfAxo9Ct9xL32NvNKOZClk6yVfQzRQWiopQfOU2sMAc7UD68znFT0DrZCXBrHPUq5gnfXfVLVIzaQwTm5a5F4dzlnqmzgQIZAlINcH4hgtKorjDdBZB3TWjggZCzaU8qTZBwcoephmUCYesacRjtt5ZB7i2p9MSORl0E0z1mNsCDZCPQ6crIeZAr5Xjie0zafCFSPmrF8nQ8qV",
+        "templates": [
+            "resposta_cadastro"
+        ]
+    },
 }
