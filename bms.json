@@ -39,4 +39,36 @@
             "pendencia_resposta_p1"
         ]
     },
+    "1248179163863946 (bm_export)": {
+        "phone_number_id": "869955866210920",
+        "templates": [
+            ""
+        ],
+        "token": "EAAWUtNS2HXABQRk0kZA5EcQV8cskOVLLbFpKmZCndgiRMMcd0VzmGkpWSF8qvZBvZBJODJ6JRsEtZAQZAyK2ddJApP3jnM0k29TMkJ47WqblZCSG1hfX3bdUh3fpBd8B56Ti7sARhfZCZBT0XgP0n1zIEsvG6ue1l7JwBBV8WgQZBls6XQiNUwQlTilIXxr3WZAZBK1G2ZAn849pGvVnBZBHptq4u5XHeNaAuh9NRAiZAWHCjzw",
+        "waba_id": "1248179163863946"
+    },
+    "1676403287077381 (bm_export)": {
+        "phone_number_id": "1045474578639963",
+        "templates": [
+            ""
+        ],
+        "token": "EAAUaGsFMYr0BQTjFB28YUQKqjZC22IrqfubzQ1AmXqb2jJq00N8JTeY453PvGukhpqT7WA5KxVfslfMw4ngV6LbCK4pLQI0o06erUqeCk3tJKx5ZAF9N3uxUffKMoqS5Mczo2XLqXkqFwZB1U2ZBxDmAIWa5SxQLjNqz1XZCcimJOfztZCQ7WWBZCEBZCf5Ww73ajY4QqDbBa87Vr8TzcIBATGRxZBbF0uhn2HLA1",
+        "waba_id": "1676403287077381"
+    },
+    "1949518908940816 (bm_export)": {
+        "phone_number_id": "935477852983256",
+        "templates": [
+            ""
+        ],
+        "token": "EAAaRh9aCwZCMBQadm79IkZCJiDEj2UuO3RQhaOZBzmFYWIxZBhmvmcGTpQBZAwXri2EAM2IFcy0l3EhUbJKsp2Sm71UUluZBIUrZA9w2SUZCZChhtXFYlWiNzieUMheJ2IoHXIjuco4I5OxGLZC870r7LdiUuw6E977L7Ih3rpWdGMZBYDCQBzrcjfXsbbE1c0tR1uZCbWhvXOSkjfksZAeP2IHB6t4tIJWLOXMwJRlnEcERE",
+        "waba_id": "1949518908940816"
+    },
+    "2676283199401119 (bm_export)": {
+        "phone_number_id": "917602048109389",
+        "templates": [
+            ""
+        ],
+        "token": "EAAlNa4VlCFMBQZARJZBdN80OxZCpZBJNpH0UVrBXT6FqAlDfapwqdESrW40AxP0acN62lnyF5S8H5SeeMG5MFdvnN10YPJmZCDfXqKQyojlDDBjScKJ1ZAs7ANlj1AyBnoevdrzDXoFpj7HZBJJZCYxnYxZANhAE1BVPGvXK4LKSwxZAoR5KdxwKaSJR5cOXg8UMqgkCoB7z6JnWxN4YZBPzBWMvjeWamgUB7BQosrMcZC98",
+        "waba_id": "2676283199401119"
+    }
 }
