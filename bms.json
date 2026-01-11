@@ -70,5 +70,13 @@
         ],
         "token": "EAAlNa4VlCFMBQZARJZBdN80OxZCpZBJNpH0UVrBXT6FqAlDfapwqdESrW40AxP0acN62lnyF5S8H5SeeMG5MFdvnN10YPJmZCDfXqKQyojlDDBjScKJ1ZAs7ANlj1AyBnoevdrzDXoFpj7HZBJJZCYxnYxZANhAE1BVPGvXK4LKSwxZAoR5KdxwKaSJR5cOXg8UMqgkCoB7z6JnWxN4YZBPzBWMvjeWamgUB7BQosrMcZC98",
         "waba_id": "2676283199401119"
+    },
+    "2228952480962071": {
+        "phone_number_id": "857821577425324",
+        "templates": [
+            "atualizacao_cadastro"
+        ],
+        "token": "EAAhCSfcFIsYBQdXUfMPYfOl6t9FLP7qaiZCkkXJn3QxbdqM8KyB4RwqkZB8QoHaGRHz7y8ZA831sQrujIOZCm0VpoYRpZCUuWrPTpLPUV7LIm3guks1FKfK1qZAOlcckZB0q2Ow1qu7NXgZAb9yxZBMprlZCHuSsnBZBvyf3zpZBnxZBi5RHJy8ROtotoBmZCw5G1uyNKvAdFlIFU5QTZA6jf6uZBGZAfomt2YV7k8tb0HrmV",
+        "waba_id": "2228952480962071"
     }
 }
