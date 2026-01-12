@@ -126,5 +126,13 @@
         ],
         "token": "EAAhBWDtZBQQYBQZABKnyFQbSNGn1DoVl2OslfoPl9UC1Cshge03UGqCMvfqs6mmmHZBpHkBn2IHrOt3JCM7I407KrZAVBvepQ5zebGtOw4ANeusQGLrGBTBX8FIiZBAqt3jOl3FpYlRVgfYneRfCUMZAXQKbo0jtPvP4On7Cgh4rgueDw8xZCM8SiKHEOhy5400K2CsZB5ZBpDEIBRpNuICl2vWMWLAZBYgeItsesd",
         "waba_id": "714801425026593"
+    },
+    "870164748713812": {
+        "phone_number_id": "937158156149568",
+        "templates": [
+            "atualizacao_cadastro"
+        ],
+        "token": "EAFsvMsBf6VQBQeuZCcbVbGlSNZAwZCFdLEHm9pNhsZBZBYoADmtWwqoBNFXrG4uP5ZA32A40YhJ0U6bI9ZAnSvGVdAHcy6uswDZAeTyDzNDedB5yF1ippnumAqiDsKGfmfVWQ9QiyXjnWO4AvzSGArtSmk556vs3cftDX3UX1On2zSYczgSvTmTNwT7knbGZBXcjqnUMTxAk42TLlev1g5EHn3cK2TIlKjhbOGXKMtjM4",
+        "waba_id": "870164748713812"
     }
 }
