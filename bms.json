@@ -94,5 +94,21 @@
         ],
         "token": "EAAhV3ROiHZBkBQdluXnNZCSnRvdwl0Fz41V9Fp0RY7I9TpWuneVyIP9EQpUcwiEZBFJQBTzG0qEPZCQ79qZCnPwZBXrZAeotIuCQ1HlMFDu6J5Pq0bF9kBZCQ2ufZAuM3TOGJTxDgNeHXZBL3WIYC53GUjntY7QahRrKZCIlTNHMRBdOapjetULv3DJAGFKalaSKJT8vOi8sIxo5XpOs2ZBMUcS5wwUQeGLKub1cfqhZA5rrb",
         "waba_id": "1162322792554259"
+    },
+    "1601608344361114": {
+        "phone_number_id": "935738392960087",
+        "templates": [
+            "atualizacao_cadastral"
+        ],
+        "token": "EAAW4Sml2h70BQaOD65hM2b4NGfRK6p9Fby8zrmXyUELilTwua9WHoluMh15H4a3h8tsH36BZCY1rZACf5H8pXpyWI52tzW5v3XZAjJrZBYcPmCZANj2M4ZC0cu4KaminH5i4O1cOqZBGAnC75tzRKzFZAmRr5QFWWjbdZCULDoaSX1KjDwAR9t0ZBd3vAammwdjTZBapAJ0yVdU0fCaIaapQotPWUf6qsaNmX0g2ppB",
+        "waba_id": "1601608344361114"
+    },
+    "857536623716808": {
+        "phone_number_id": "937369502795030",
+        "templates": [
+            "atualizacao_cadastral"
+        ],
+        "token": "EAAR0zBkaxjQBQSlaZBmS4Yo0uNGyQJ0aZAcGog6do1UTqHQCKunUFMbZCMXfQyH88ysZAHNwO8Hz3efftAa0eQTO8Ytdjfpqh7JQGT3phkNkoKbm8lUN427ZBBdyv6Qb3iegvcjg20taxlwR9LEcTIfivILk0ck3IS1sZBidHinDfK3byCZCfLuCmizEmlZAS3VTgNFqZCsty9poVqgIUltZC0plHUU7p8HMXrUVBm",
+        "waba_id": "857536623716808"
     }
 }
