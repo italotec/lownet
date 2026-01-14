@@ -1,138 +1,50 @@
 {
-    "38 df": {
-        "waba_id": "870885508968161",
-        "phone_number_id": "906989289171688",
-        "token": "EAAT5J990te0BQQTn4jBruI1c3W8GKmo2nYqeZBe7zlRZBxXUIbQJvpfZAZCgZBn7pwNkBg48NlSkhu249RjoLCX8pwPNBCEHgi6C8xeWH3jWZATG3fT2WVq3CgLpOou8A3ZBxG62BZCTjaQFqEGE5bcOBt6wHpkXZCEEEBHS43AyuAWZBoHa0TZBfQ3UrXlAtbyysWiH8NteaQFVuEuZBzfyVZCEkoJZBHuZA6q83UQhE0XPOOR",
-        "templates": [
-            "resposta_cadastro"
-        ]
-    },
-    "39 df": {
-        "waba_id": "1446762006971657",
-        "phone_number_id": "986514644538605",
-        "token": "EAAMvZACNc6WABQRFxExbYKZApE3gOltLUAK77JJ20tcmzZCXaaoyAl4gquZBn2KobVnpbtVtWfjzyJRMRonSO3xbJMGxZBLcCcZCaq8uVPqr39qZA2ZBZC7U3Tn6jChnRRCo6CFrDZCOQ89eQXpVV81DMfGvi1JWlg53ZBFU7o2iPzru0GzbSA8vtW8YGTHB0JirX6gTiV96cpzqtMslUnWDZBM3E0qG7Wc5CuXGjZCucea1i",
-        "templates": [
-            "resposta_cadastro"
-        ]
-    },
-    "238 df": {
-        "waba_id": "1341292887741926",
-        "phone_number_id": "939187739279928",
-        "token": "EAARgb7KwJZA4BQeRZBUQnIKRZBNRxZCTlL2bm4qudG4WB3IpZCAiH0wVXJ3JhR2HJ2yDfoTuANCZCmCjhX6t4lzjbYQTvGXQGL7eZBWgXpX3ZB5v7CUrxB4blWZCU2PYYmEXA2Nm2eFEnCbena5oFqhfRj7Tc50HY6aAGkOt1YlxF5DQ0unUekyQlCf686JpoARpQOag3rKu0hdLwLyo3mrlrjlJcpyq7KeleDCTTDf7A",
-        "templates": [
-            "resposta_cadastro"
-        ]
-    },
-    "41 df": {
-        "waba_id": "2085159355221558",
-        "phone_number_id": "912969911903736",
-        "token": "EAAY3aiwR0VgBQcLInEDJLZCsLvZAaxv49EfAxo9Ct9xL32NvNKOZClk6yVfQzRQWiopQfOU2sMAc7UD68znFT0DrZCXBrHPUq5gnfXfVLVIzaQwTm5a5F4dzlnqmzgQIZAlINcH4hgtKorjDdBZB3TWjggZCzaU8qTZBwcoephmUCYesacRjtt5ZB7i2p9MSORl0E0z1mNsCDZCPQ6crIeZAr5Xjie0zafCFSPmrF8nQ8qV",
-        "templates": [
-            "resposta_cadastro"
-        ]
-    },
-    "capo df": {
-        "waba_id": "1174849194082798",
-        "phone_number_id": "896441900227331",
-        "token": "EAALZBpaRuU2QBQaSCzgPC9tMdpCbKUDqHvyGJfVeTPBWeJVqYRblRtLy86b1lFZCd5NSZBYQuXxlfc9IoKx3am0iBfPvmtqAJIAbZBGVMWpvsrCkhlyPTZANfczm7Fg0uEEhO80rxI3TjxJBBj0eoqZAgnHib58gJccPvcEiZCQobob1RPA4W7fX72o0jqp9I0nc121hTy1Nl5AULFP84ZBE0ZAs6yyDn6imZCRnCe3paI",
-        "templates": [
-            "pendencia_resposta_p1"
-        ]
-    },
-    "1248179163863946 (bm_export)": {
-        "phone_number_id": "869955866210920",
+    "1218593603079100": {
+        "phone_number_id": "861425840398003",
         "templates": [
             "atualizacao_cadastro"
         ],
-        "token": "EAAWUtNS2HXABQRk0kZA5EcQV8cskOVLLbFpKmZCndgiRMMcd0VzmGkpWSF8qvZBvZBJODJ6JRsEtZAQZAyK2ddJApP3jnM0k29TMkJ47WqblZCSG1hfX3bdUh3fpBd8B56Ti7sARhfZCZBT0XgP0n1zIEsvG6ue1l7JwBBV8WgQZBls6XQiNUwQlTilIXxr3WZAZBK1G2ZAn849pGvVnBZBHptq4u5XHeNaAuh9NRAiZAWHCjzw",
-        "waba_id": "1248179163863946"
+        "token": "EAAbeOzjMZAD4BQT6u3675YZAcSmdlQkO6uCX3FMtqZA94qEnFBQZCIScrr1IC7ThScM6gZA1A8eKAtdHpjoPctSkehrZCCLFEU4E2ysyo4LrUAPzXgDZCuScNU96Kg4SfRUiHCKWrLuQr6KhPZCX0pgx2LtLlcpcfGMnMkj4ZAACsVj4m27CcnagFkPHilhYUW14eI2u5u1R1bGcuDNZAJeXpbggjrNYuiMY37ZCn4l",
+        "waba_id": "1218593603079100"
     },
-    "1676403287077381 (bm_export)": {
-        "phone_number_id": "1045474578639963",
-        "templates": [
-            "notificacao_sistema_cadastro15"
-        ],
-        "token": "EAAUaGsFMYr0BQTjFB28YUQKqjZC22IrqfubzQ1AmXqb2jJq00N8JTeY453PvGukhpqT7WA5KxVfslfMw4ngV6LbCK4pLQI0o06erUqeCk3tJKx5ZAF9N3uxUffKMoqS5Mczo2XLqXkqFwZB1U2ZBxDmAIWa5SxQLjNqz1XZCcimJOfztZCQ7WWBZCEBZCf5Ww73ajY4QqDbBa87Vr8TzcIBATGRxZBbF0uhn2HLA1",
-        "waba_id": "1676403287077381"
-    },
-    "1949518908940816 (bm_export)": {
-        "phone_number_id": "935477852983256",
+    "1513535093066821": {
+        "phone_number_id": "887645554441133",
         "templates": [
             "atualizacao_cadastro"
         ],
-        "token": "EAAaRh9aCwZCMBQadm79IkZCJiDEj2UuO3RQhaOZBzmFYWIxZBhmvmcGTpQBZAwXri2EAM2IFcy0l3EhUbJKsp2Sm71UUluZBIUrZA9w2SUZCZChhtXFYlWiNzieUMheJ2IoHXIjuco4I5OxGLZC870r7LdiUuw6E977L7Ih3rpWdGMZBYDCQBzrcjfXsbbE1c0tR1uZCbWhvXOSkjfksZAeP2IHB6t4tIJWLOXMwJRlnEcERE",
-        "waba_id": "1949518908940816"
+        "token": "EAAT8hFu1gdQBQWFirN0ZC2RqpIrgif2qspAugfuewJmhYUVnEj4hcVJZBZCO9gnfapHXkEAwEv9hUEJ94mEr0jdzCFPhXMlHpJ9HNr1laWSRo4zxt9VBgcbF5NAngovBoyGP0fdVuxUDhVNYKwcPcm99ihp3OlDQOt43syvuGaGPwIXUV5ZCt4y6ZBb5DE644WZAhLGNmBKvlUix6D1vN6nmIxCXHrRF1RijIdW6jr",
+        "waba_id": "1513535093066821"
     },
-    "2676283199401119 (bm_export)": {
-        "phone_number_id": "917602048109389",
+    "1549904616274556": {
+        "phone_number_id": "1015510061637397",
         "templates": [
             "atualizacao_cadastro"
         ],
-        "token": "EAAlNa4VlCFMBQZARJZBdN80OxZCpZBJNpH0UVrBXT6FqAlDfapwqdESrW40AxP0acN62lnyF5S8H5SeeMG5MFdvnN10YPJmZCDfXqKQyojlDDBjScKJ1ZAs7ANlj1AyBnoevdrzDXoFpj7HZBJJZCYxnYxZANhAE1BVPGvXK4LKSwxZAoR5KdxwKaSJR5cOXg8UMqgkCoB7z6JnWxN4YZBPzBWMvjeWamgUB7BQosrMcZC98",
-        "waba_id": "2676283199401119"
+        "token": "EAAQ33NUNTn8BQVXhqRZB0tP6oPSRQLp7o3Es8t0UPHjAZCGumlUB9RwjsrvFZBfVODwZBLuMNvmOWL0O3smvn5eViYtm2cQuha6qso5BsUWu0PCmTx0NaqbrbTZA0b7qbtZAkywsXgZC5bG4QZAMQzKy5UQb2vihSDo99R40BYwd0oVqnKtkvO9B9AZAoj7AX98ggig2ZAYEyjjIKZBAZCVjNugqwsBiDZAwHV5Rzzo8HbxNp",
+        "waba_id": "1549904616274556"
     },
-    "2228952480962071": {
-        "phone_number_id": "857821577425324",
+    "1633137477682582": {
+        "phone_number_id": "930777773454746",
         "templates": [
             "atualizacao_cadastro"
         ],
-        "token": "EAAhCSfcFIsYBQdXUfMPYfOl6t9FLP7qaiZCkkXJn3QxbdqM8KyB4RwqkZB8QoHaGRHz7y8ZA831sQrujIOZCm0VpoYRpZCUuWrPTpLPUV7LIm3guks1FKfK1qZAOlcckZB0q2Ow1qu7NXgZAb9yxZBMprlZCHuSsnBZBvyf3zpZBnxZBi5RHJy8ROtotoBmZCw5G1uyNKvAdFlIFU5QTZA6jf6uZBGZAfomt2YV7k8tb0HrmV",
-        "waba_id": "2228952480962071"
+        "token": "EAAQn77F35XkBQYFHZAZBYRo4fQCUxNZCZB3wJ1bZBjKCzTi1qFZAdYqBKvpEVVvdYzZBvsWdkkdgZCkmuZAokISagE3BosaMOd0NEHuFZBLXmfZBZCEDUGFwgxWc5TbWGsIkUuVJlKwMkxdIKiKObcKgR5hTVIqjumxhiNjc1paZCyUNhlheuspLG11o8OB0isPOZBN8T02CVBiLseWMtkV4l6TXIIyoYAI9qDya71eyfU4dlP",
+        "waba_id": "1633137477682582"
     },
-    "1262013359135439": {
-        "phone_number_id": "962130573646690",
+    "1778982752777093": {
+        "phone_number_id": "893025020570061",
         "templates": [
             "atualizacao_cadastro"
         ],
-        "token": "EAAMBVwQ7ZBekBQQji8LR6Bg5sE8bxzuaAfrV0nlq9E09NPyd6eRMfU9Pi9lClKO8JKUx53MSWnZA78ef9M4NHQzuGdqInpcY3wtxZBM55ZBHErVjzlMVntURQbbR7V52wFlnd3wSe4ZBxzqq4ijLZAx375aOefWAb1gsZAF4ipW0GFwCjVW0kQpWhmABIgPmveewCgjBAV0VXo8GIUgdqZAdlDa2aHJO7UTtpLBNZAUr6",
-        "waba_id": "1262013359135439"
+        "token": "EAAMZCvo5VZCRABQdanEt2kiidd3E9zNQ7MSXdTnh5hxjTAvBvvniAVI9TZA40z7ZANiPLno98aqR0mudNbWoyPkmLrZB85repOfgPFZCseT5F9rqkqWfuRFJFfMvQ16uqUJcp10e0lYqZBN3eI72cLiEltBZAZBxoWEKBYcthmBIIAzUkC2ZACkBYFZC050ZCRnsBhR2kZAlCmL65a79lbJ4wbohKUZCbN1OyrWhuBT02b",
+        "waba_id": "1778982752777093"
     },
-    "1162322792554259": {
-        "phone_number_id": "932002836667194",
+    "735430865857905": {
+        "phone_number_id": "976717002190112",
         "templates": [
             "atualizacao_cadastro"
         ],
-        "token": "EAAhV3ROiHZBkBQdluXnNZCSnRvdwl0Fz41V9Fp0RY7I9TpWuneVyIP9EQpUcwiEZBFJQBTzG0qEPZCQ79qZCnPwZBXrZAeotIuCQ1HlMFDu6J5Pq0bF9kBZCQ2ufZAuM3TOGJTxDgNeHXZBL3WIYC53GUjntY7QahRrKZCIlTNHMRBdOapjetULv3DJAGFKalaSKJT8vOi8sIxo5XpOs2ZBMUcS5wwUQeGLKub1cfqhZA5rrb",
-        "waba_id": "1162322792554259"
-    },
-    "1601608344361114": {
-        "phone_number_id": "935738392960087",
-        "templates": [
-            "atualizacao_cadastral"
-        ],
-        "token": "EAAW4Sml2h70BQaOD65hM2b4NGfRK6p9Fby8zrmXyUELilTwua9WHoluMh15H4a3h8tsH36BZCY1rZACf5H8pXpyWI52tzW5v3XZAjJrZBYcPmCZANj2M4ZC0cu4KaminH5i4O1cOqZBGAnC75tzRKzFZAmRr5QFWWjbdZCULDoaSX1KjDwAR9t0ZBd3vAammwdjTZBapAJ0yVdU0fCaIaapQotPWUf6qsaNmX0g2ppB",
-        "waba_id": "1601608344361114"
-    },
-    "857536623716808": {
-        "phone_number_id": "937369502795030",
-        "templates": [
-            "atualizacao_cadastral"
-        ],
-        "token": "EAAR0zBkaxjQBQSlaZBmS4Yo0uNGyQJ0aZAcGog6do1UTqHQCKunUFMbZCMXfQyH88ysZAHNwO8Hz3efftAa0eQTO8Ytdjfpqh7JQGT3phkNkoKbm8lUN427ZBBdyv6Qb3iegvcjg20taxlwR9LEcTIfivILk0ck3IS1sZBidHinDfK3byCZCfLuCmizEmlZAS3VTgNFqZCsty9poVqgIUltZC0plHUU7p8HMXrUVBm",
-        "waba_id": "857536623716808"
-    },
-    "25568160439477537": {
-        "phone_number_id": "913649861835646",
-        "templates": [
-            "atualizacao_cadastro"
-        ],
-        "token": "EAAczRkA0BkABQfZCrrYVaUQJWdRd6QZBI7kqXDhPn9v5N0C2MVtBrsF0DIBsZAobQpg4Q1QcxgS0yEZAUNsTLqgYxpy6DwHL2sJsgqesjOvwDISJ8ZAxWxgSSvk2uSt79QeCuk8MBs5Qxmk0yxh50uYBNKeZAsBsChSjiZB7Kpmc9hwEcCt0PLq6Jt0HgrIUfYWdBgMBmZBZBPihz6SYgwFJwIpxMcGCOZAKwmcEQC",
-        "waba_id": "25568160439477537"
-    },
-    "714801425026593": {
-        "phone_number_id": "937871719411020",
-        "templates": [
-            "atualizacao_cadastro"
-        ],
-        "token": "EAAhBWDtZBQQYBQZABKnyFQbSNGn1DoVl2OslfoPl9UC1Cshge03UGqCMvfqs6mmmHZBpHkBn2IHrOt3JCM7I407KrZAVBvepQ5zebGtOw4ANeusQGLrGBTBX8FIiZBAqt3jOl3FpYlRVgfYneRfCUMZAXQKbo0jtPvP4On7Cgh4rgueDw8xZCM8SiKHEOhy5400K2CsZB5ZBpDEIBRpNuICl2vWMWLAZBYgeItsesd",
-        "waba_id": "714801425026593"
-    },
-    "870164748713812": {
-        "phone_number_id": "885031531367277",
-        "templates": [
-            "atualizacao_cadastro"
-        ],
-        "token": "EAAZAYgpqKKpYBQfVZBcCRWXkgpdSJZCHB9ENge6iEHPbdx8qQ96ByIGvH8kEwlEoBeU5XZAsnAISaQQPpg3kFvV7yinXa2gD1RX4llErbZABBMus588BuuaPpfo0pccxCDKqypds0zwHulGtLPGRndZCqGK4jZBE5AqokAcjNG9Kui7abB62s0PuPHc4daoleyMK01JIKBhu8TvOgKbAcIGJikJRDrxKnN3vkgV1F4m",
-        "waba_id": "870164748713812"
+        "token": "EAAUhhqruDR8BQcyFsE4dd2mBZA7nXGwpHz0OrruhC0SSfZBUQlfAwGulwFqKv3SVkm3N0lZAJfn37t5ZCkblpQetvM5ZAVdII5Gv3Q0axNhSjPVOdUIaZBUTeIeDsFDeCvpsV4ZBXrzZAoyVEA0Dek0mRHe8IAUwSF3Jp6nx2vO6LmmPs3NZCnKuLHF5ZAlLpAY6RSrvcZBHzuOwfNeDDmjwZAmj0pHITguczHXDnXdGXAFj",
+        "waba_id": "735430865857905"
     }
 }
